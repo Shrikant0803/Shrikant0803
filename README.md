@@ -1,4 +1,4 @@
-![logo](https://github.com/Shrikant0803/Shrikant0803/blob/main/1657646421212.png)
+![logo](https://github.com/Shrikant0803/Shrikant0803/commit/34a8f131eeffe7bfd7e169ec28f83abc22b663ba)
 <h1 align="center">Hi 👋, I'm Shrikant Sakhare</h1>
 <h3 align="center">A passionate Technical Writer with 4+ years experience.</h3>
 
