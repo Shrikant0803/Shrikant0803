@@ -43,8 +43,13 @@
   - MS OFFICE Tools
   - Visio
 
-    Achivments:
+</p>
+
+<h3 align="left">Achivments:</h3>
+<p align="left">
+
+
     - Worked with Mulpiple Regions
       ![image](https://github.com/Shrikant0803/Shrikant0803/assets/91322830/43727545-6d1e-4f09-a858-05c51f52670a)
-
+      
 </p>
