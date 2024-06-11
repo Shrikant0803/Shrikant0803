@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Web Content Development and Internal Documentation](https://www.flymoredrone.in/index.html) as freelancer
 
-- Instruction Designer/Technical Writer with Tanagoe : Explore More about demo video on (https://learn.tangoe.com/)
+- Instruction Designer/Technical Writer with Tangoe : Explore More about demo video on (https://learn.tangoe.com/)
 
-- Previously Worked with Whirlpool for Maintaining and [Maintaining and Updating Online help](https://producthelp.whirlpool.com/)
+- Previously Worked with Whirlpool for [Maintaining and Updating Online help](https://producthelp.whirlpool.com/)
 
 - 👯 I’m looking to collaborate on **Software Documentation**
 
@@ -24,7 +24,10 @@
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   
-  - Confluence  
+  - Confluence
+  - Snagit
+  - Camtasia
+  - Microsoft Clipchamp  
   - Adobe RoboHelp
   - Oxygen XML
   - DITA XML
