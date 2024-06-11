@@ -5,7 +5,7 @@
 
 - Instruction Designer/Technical Writer with Tanagoe : Explore More about demo video on (https://learn.tangoe.com/)
 
-- Previously Worked with Whirlpool for Maintaining and Updating Online help [Maintaining and Updating Online help](https://producthelp.whirlpool.com/)
+- Previously Worked with Whirlpool for Maintaining and [Maintaining and Updating Online help](https://producthelp.whirlpool.com/)
 
 - 👯 I’m looking to collaborate on **Software Documentation**
 
