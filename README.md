@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shrikant Sakhare</h1>
 <h3 align="center">A passionate Technical Writer with 4+ years experience.</h3>
 
-- 🔭 I’m currently working on [Web Content Development and Internal Documentation](https://www.flymoredrone.in/index.html)
+- 🔭 I’m currently working on [Web Content Development and Internal Documentation](https://www.flymoredrone.in/index.html) as freelancer
+
+- Instruction Designer/Technical Writer with Tanagoe : Explore More about demo video on (https://learn.tangoe.com/)
 
 - 👯 I’m looking to collaborate on **Software Documentation**
 
