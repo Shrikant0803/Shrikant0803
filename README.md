@@ -48,7 +48,8 @@
 <h3 align="left">Achivments:</h3>
 <p align="left">
   Worked with Multiple Regions
-  ![image](https://github.com/Shrikant0803/Shrikant0803/assets/91322830/cfe12f94-662a-48c7-b428-9950b3626e83)
+  
+<img width="452" alt="powerup May" src="https://github.com/Shrikant0803/Shrikant0803/assets/91322830/9b6aaab7-854d-4a86-a43a-b44d92298e11">
 
   
   ![image](https://github.com/Shrikant0803/Shrikant0803/assets/91322830/43727545-6d1e-4f09-a858-05c51f52670a)
